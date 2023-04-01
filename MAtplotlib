@@ -1,0 +1,5 @@
+matplotlib.pyplot
+plt.show(): Explicit command required to display the plot object
+plt.bar(x_component, y_component): Used to draw a bar graph
+plt.xlabel(), plt.ylabel(): Specify labels for the x and y axes
+plt.title(): Add a title to the plot object
