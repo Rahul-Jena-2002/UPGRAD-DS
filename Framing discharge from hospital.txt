@@ -1,0 +1,250 @@
+Framing the Problem: Hospital Discharge Process
+ 
+
+Framing The Problem
+Understanding and overcoming barriers in timely patient discharge at hospitals
+
+ 
+Relevance of the Problem:
+As per an article from the Mint, delays in patient discharge can be due to various reasons. One of the main reasons cited by the article is delays in the settlement of insurance claims. Delay on the part of the insurance companies or a third-party administrator(TPA) to verify the claims can make the patient discharge process as long as six to eight hours. This puts an unnecessary burden on the patient and the family, while the bed that can be allotted to another patient in the hospital remains occupied. Both the patient as well as the hospital suffer due to this delay.  Now that you have established the relevance of the problem,  you need to distinguish facts from opinions in order to frame the problem more objectively.
+
+ 
+Distinguish Facts and Opinions: 
+In the case of delayed discharge of patients from the hospital, how can the facts and opinions be distinguished? As there are several departments and personnel involved in the discharge process, it is important to identify the facts that lead to the delay in the discharge process. Instead of relying on anecdotes, a standard set of guidelines can be referred to in order to identify the real causes of a problem.
+
+ 
+
+As per NABH guidelines, a hospital should have an established discharge process. NABH has set 180 minutes as a standard for completion of the discharge process. Maintaining an acceptable level of patient discharge time can give a competitive edge to the organisation. 
+
+ 
+
+As per NABH, a hospital should follow the following steps while planning a discharge process:
+
+ 
+
+AAC.13. The organisation has an established discharge process.
+
+The patient's discharge process is planned with the patient and/or family.
+
+The discharge process is coordinated among various departments and agencies involved (including medico-legal and absconded cases). 
+
+Written guidance governs the discharge of patients leaving against medical advice.
+
+A discharge summary is given to all the patients leaving the organisation (including patients leaving against medical advice).
+
+The organisation adheres to planned discharge.
+
+The organisation conforms to the defined timeframe for discharge and makes continual improvement.
+
+ 
+
+AAC.14. The organisation defines the content of the discharge summary.
+
+A discharge summary is provided to the patients at the time of discharge.
+
+Discharge summary contains the patient's name, unique identification number, name of the treating doctor, date of admission and date of discharge.
+
+Discharge summary contains the reasons for admission, significant findings and diagnosis and the patient's condition at the time of discharge.
+
+Discharge summary contains information regarding investigation results, any procedure performed, medication administered, and other treatment given.
+
+Discharge summary contains follow-up advice, medication and other instructions in an understandable manner.
+
+Discharge summary incorporates instructions about when and how to obtain urgent care.
+
+* Source: National Accreditations Board of Hospitals and health care providers (NABH), Accreditation Standard Guidebook for Hospitals, 5th Edition
+
+ 
+
+With the help of these guidelines, a hospital can establish facts and distinguish the same from opinions. A hospital can identify which step of the guidelines is missed in the discharge process. Anecdotal accounts shared by medical personnel regarding delays are subjective and it is better to use standard guidelines to ascertain the facts about the delay.
+
+ 
+
+Prioritising Key Issues: 
+Delayed patient discharge can not only unnecessarily expose the patient to hospital-acquired infection (HAI) due to the prolonged stay, but also put a burden on the hospital’s infrastructure and resources. The delayed discharge unnecessarily increases the bed occupancy time of a patient and affects the revenue generation ability of the hospital. It also massively impacts the patient experience. 
+
+ 
+
+To prioritise key issues when it comes to the discharge process problem, let’s take a look at some of the steps involved in patient discharge from a large hospital. The whole process including the planning and execution, can take two days and the steps can be divided into two categories. 
+
+ 
+
+Steps to be taken a day prior to the discharge:
+
+The consultant doctor of the patient plans the discharge for the next day and notes down the order in the patient’s file.
+
+ The medical officer (MO) takes a note of the order in the patient file and collects all the pending reports, if any. MO prepares the discharge summary too.
+
+The nurse in-charge sends discharge intimation to the bed manager and prepares an interim bill. Also, a list of pharmacy items to be returned is also prepared. The reports of the patients are photocopied to maintain hospital records.
+
+The general duty assistant (GDA) at the pharmacy accepts the pharmacy items returned and updates the bills in the system.
+
+The physiotherapist and/or dietician gives advice to patients.
+
+ 
+
+Steps to be taken on the day of the discharge:
+
+Consultant doctor finalises the discharge order.
+
+MO completes medication orders.
+
+Nurse in-charge collects all the activity sheets of the patient.
+
+GDA shares the activity sheet of the patient with the bill charge desk.
+
+Staff nurse lists all the pharmacy items that need to be returned.
+
+GDA returns the pharmacy items.
+
+Pharmacist accepts the medicine returns and updates the system.
+
+Billing desk at the ward level updates the bill and shares it with the patient attendant.
+
+Bills are cleared.
+
+Patient is transferred to the discharge lounge.
+
+ 
+
+The hospital management has to identify the delay in the discharge process by observing if the delay is happening as the consultant and the medical officer are not fulfilling their duty. Or is the problem happening due to the lack of communication between the nurse, the GDA, the pharmacy or the bill desk officials? 
+
+ 
+
+For this, the cases of delayed patient discharge need to be reviewed. The frequency of occurrence of the problem should be noted down. Which step is being missed most often? Are the bills not updated regularly by the pharmacist or are the activity sheets not collected and maintained by the nurse in-charge? Next, you would need to identify the probability of occurrence of an issue. Which step has a higher chance of being missed? Are there high chances of lack of inter-department coordination? For instance, the coordination between the nurse in-charge and the GDA at the pharmacy. If the lack of coordination between different departments is due to shortage of personnel, can recruitment of new staff members ease this problem? Or, if the problem is due to the outdated management system used at the pharmacy leading to delays in the regular updates of the bill, can updating the software help in reducing the delay in discharge? You must take all these decisions by considering the cost factor of the problem as well. Which step will cost more? Recruitment and training of new staff members, or updating the software and training the staff to use the new software? Another important aspect to consider while prioritising key issues is the feasibility of the solution. Which step will require more time and effort to ease the problem? Will updating the software and training the staff take more time, or will recruiting new staff take more time?
+
+ 
+
+Once you have considered all these aspects, you can proceed towards framing the problem statement.
+
+ 
+
+Frame the Problem using S.M.A.R.T Framework: 
+To frame the problem statement, let’s use the SMART framework. 
+
+ 
+
+Specific: This part should clearly outline the problem you are trying to solve. For instance, the hospital wants to reduce the delay in the patient discharge process.
+
+Measurable: This aspect should be considered in order to benchmark your problem with either an industry average or your target. For instance, based on NABH guidelines, let's say a hospital wants to reduce the average patient discharge time from six hours to three hours.
+
+Actionable: The problem should include clear action points for the hospital to focus on in order to solve this problem. These action items can range from hiring new staff to introducing an integrated hospital management information system (HMIS) in the hospital. 
+
+Relevant: The suggested actionable must be relevant to the problem at hand. You must be able to connect the action item to the problem you are trying to solve.
+
+Timed: The hospital should fix a time frame in order to revisit the problem and its proposed outcomes after implementing some solutions.
+
+ 
+
+Now that you have learnt how to frame the problem statement for this particular problem, let's move on to the next session, where you will learn how to analyse a problem. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module Summary
+In this module, you understood the overall approach to problem-solving and the different problem-solving methodologies that can be used in your personal as well as your professional life. 
+
+ 
+
+First, you learnt about the advantages of problem-solving and the different types of problems such as problems with unknown causes, problems with irrelevant causes, problems with known solutions but uncertain outcomes, and problems with known solutions and certain outcomes. 
+Additionally, you also learnt about the different types of business problems such as:
+
+Increasing the profitability of the business 
+Challenges of growth
+Efficiency of the value chain
+Improving customer experience
+Conducting mergers and acquisitions
+Next, you understood the four-step problem-solving approach that can assist you in arriving at structured solutions. The steps are as follows:
+
+Frame the problem
+Analyse the problem
+Analyse the possible solutions
+Implement the solutions.
+ 
+
+You also learnt about some crucial activities that should be carried out to frame a problem accurately and the different criteria that can be used to prioritise key issues. 
+
+ 
+
+Next, you learnt that once the key issues are identified and prioritised, it is crucial to clearly define the problem statement. The S.M.A.R.T framework can be used to frame the problem statement effectively. The S.M.A.R.T framework stands for Specific, Measurable, Actionable, Relevant and Timed.
+
+ 
+
+Next, you learnt that a hypothesis is an assertion or a supposition that can be validated, and the two important components of a hypothesis are independent and dependent variables.
+You also learnt how to test your hypothesis with the help of the issue tree framework. An issue tree depicts a series of logical conditions and sub conditions, which are more detailed and specific issues, which if proven true, prove that the hypothesis is correct. 
+
+ 
+
+You also understand the MECE principle, which is an important aspect in forming a hypothesis. MECE stands for Mutually Exclusive and Collectively Exhaustive. It is a method of grouping information into elements that are mutually exclusive and collectively exhaustive. 
+
+ 
+
+Next, you learnt about the important considerations to keep in mind while formulating hypotheses. You also learnt about the root cause analysis, which is a critical approach to analyse a problem. The two frameworks that can be used to reach the root cause of a problem are:
+
+5 Whys technique, and
+Fish-Bone diagram.
+ 
+
+In session 5, you learnt about the following methods that can be used for ideating solutions:
+
+Design thinking
+De Bono’s Six Thinking Hats
+Storyboarding and prototyping
+6-3-5 technique 
+Next, you learnt about a technique called SCAMPER, which can be used to improve existing products and services. SCAMPER stands for Substitute, Combine, Adjust, Modify, Put to other use, Eliminate and Rearrange. 
+
+ 
+
+You also understood the two most common ways of prioritising solutions are as follows:
+
+Funnel 
+2x2 prioritization matrix
+Finally, in this session, you learnt about the implications of problem-solving in a business context. 
+
+ 
+
+In the last session, you learnt that the implementation of a solution involves the following four steps:
+
+Defining the action plan
+Determining the right KPIs (key performance indicators) and metrics 
+Creating POCs (Proofs of Concept)
+Monitoring and reviewing the progress of the action plan
+ 
+
+You also learnt the difference between the KPI (key performance indicators) and metrics, and that  KPIs and metrics can be classified into the following:
+
+Quantitative and qualitative
+Leading and lagging indicators
+External and internal indicators
+Input, process and output
+Financial, operational and timing indicators
+ 
+
+You learnt about the Proof of Concept (POC) approach, which is recommended to implement a solution, different types of feedback- qualitative and quantitative and the ways to gauge customers satisfaction. 
+
+ 
+
+Finally, you learnt about the project management office. It is the organisation that ensures that a program or a group of projects are successfully implemented.
+
+
+With this, we conclude this course.
+
+ 
+
+Feel free to keep going back to the various concepts and techniques in this course to help you with the various challenges in your professionallife.
+
+ 
